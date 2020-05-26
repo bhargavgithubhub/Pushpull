@@ -1,12 +1,12 @@
 package resources;
 
-public class ClassFirst {
+public class OtherBranch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// ClassFirst third= new ClassSecOverRides();
 		// third.animalSound();
-		ClassFirst chk = new ClassThird();
+		OtherBranch chk = new ClassThird();
 		chk.animalSound();
 	}
 
